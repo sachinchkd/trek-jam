@@ -59,8 +59,8 @@ body {
 }
 
 .hero-image {
-  width: min(420px, 90vw);
-  height: 260px;
+  width: min(520px, 90vw);
+  height: 860px;
   object-fit: cover;
   border-radius: 28px;
   border: 4px solid rgba(255, 255, 255, 0.15);
